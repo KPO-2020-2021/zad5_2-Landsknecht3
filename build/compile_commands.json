@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/app/main.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/app/main.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/BLOCK.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/BLOCK.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/BLOCK.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/CUBOID.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/CUBOID.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/CUBOID.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/DRONE.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/DRONE.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/DRONE.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/HILL.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/HILL.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/HILL.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Macierz3x3.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/Macierz3x3.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/Macierz3x3.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PLANE.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/PLANE.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/PLANE.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PLATEAU.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/PLATEAU.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/PLATEAU.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PRISM.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/PRISM.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/PRISM.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/RIDGE.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/RIDGE.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/RIDGE.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/STAGE.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/STAGE.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/STAGE.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Wektor3D.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/Wektor3D.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/Wektor3D.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/src/lacze_do_gnuplota.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/mikubed/semestr2/zad5_2-Landsknecht3/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mikubed/semestr2/zad5_2-Landsknecht3/build -I/home/mikubed/semestr2/zad5_2-Landsknecht3/inc -I/home/mikubed/semestr2/zad5_2-Landsknecht3/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/mikubed/semestr2/zad5_2-Landsknecht3/tests/main.cpp",
+  "file": "/home/mikubed/semestr2/zad5_2-Landsknecht3/tests/main.cpp"
+}
+]
